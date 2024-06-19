@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style type="text/css">
+
+h1{
+color: gold;
+background: Black;
+font-family: tahoma;
+}
+
+a{
+  color: maroon;
+  text-decoration: none;
+  font-size: 20px;
+ }
+ 
+ a:hover{
+       color: blue;
+       font-size: 22px;
+ }
+ 
+ a:visited{
+ color: grey;
+ }
+ 
+ img{
+ width: 500px;
+ }
+
+</style>
+<title>Insert title here</title>
+</head>
+<body>
+<center>
+<h1>Today working on Anchors Tag</h1>
+<a href="https://www.javatpoint.com/method-in-java" target="blank"><p> Click here to visit 	javaTpoint </p> </a>
+<a href="https://www.geeksforgeeks.org/java/" target="blank"> <p> Click here to visit GeekforGeeks </p> </a>
+<a href="https://www.w3schools.com/html/tryit.asp?filename=tryhtml_styles_text-align" target="blank"><p>Click here to visit W3schools </p> </a>
+
+<a href="#" target="blank"> <img src="https://as1.ftcdn.net/v2/jpg/02/79/14/44/1000_F_279144468_kTSPZU3sNC8R7JMklq9XzzBBS2TsNHDy.jpg"/> </a>
+</center>
+</body>
+</html>
