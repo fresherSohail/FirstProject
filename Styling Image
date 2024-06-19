@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style type="text/css">
+h1{font-size:70px;
+   color: lightblue;
+   text-transform: Uppercase;
+}
+
+u{ color: lightblue;
+}
+
+img{
+    border: 3px dashed lightblue;
+    width:900px;
+}
+</style>
+<title>Image page</title>
+</head>
+<body bgcolor="black">
+<center>
+<u>
+<h1>My Image in HTML</h1>
+</u>
+<img src="https://images.pexels.com/photos/326055/pexels-photo-326055.jpeg" alt="ButterFly Image" width="1000px"/>
+</center>
+</body>
+</html>
