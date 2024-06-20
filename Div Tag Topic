@@ -1,0 +1,27 @@
+<html>
+
+<head>
+<style>
+div{
+    width: 500px;
+    height: 500px;
+    background: red;
+}
+</style>
+</head>
+
+
+<body>
+<div>
+
+</div>
+
+<div style="background:yellow; width:800px">
+
+</div>
+
+<div style="background:green; width:400px; height:200px; background:none; border: 8px solid blue">
+
+</div>
+</body>
+</html>
