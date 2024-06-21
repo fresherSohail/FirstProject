@@ -1,0 +1,149 @@
+<html>
+<head>
+<style type="text/css">
+#div1{
+width:960px;
+height:auto;
+background:orange;
+margin: 10px auto;
+border: 10px double black;
+}
+
+#div2{
+width:960px;
+height:auto;
+background:grey;
+margin:5px 0px 0px 0px;
+padding: 0px 0px 0px 0px;
+}
+
+img{
+width:150px;
+float:left;	
+margin-down:10px;
+}
+
+h1{
+font-family:new-times-roman;
+font-size:40px;
+color: black;
+float: left;
+margin-left:100px;
+}
+
+.div4{
+float:left;
+}
+
+.div4 p{
+font-size:12px;
+font-famiy:tahoma;
+color: black;
+width: 560px;
+margin-left:10px;
+}
+
+#banner{
+height:auto;
+}
+
+#banner img{
+width:960px;
+height:200px;
+}
+
+#news{
+border-left:2px solid black;
+height:500px;
+width:363px;
+margin: 0px 12px 4px 12px;
+float:left;
+}
+
+#news p{
+color:black;
+font-size:20px;
+}
+
+</style>
+</head>
+<body>
+
+<div id="div1">
+
+<div id="div2">
+<img src="https://img.freepik.com/free-vector/gradient-quill-pen-design-template_23-2149837191.jpg?size=626&ext=jpg" alt="logo"/>
+<b><h1>Welcome to www.sohailsadda.com</h1></b>
+</div>
+
+<div id="banner">
+<img src="https://img.freepik.com/free-photo/abstract-flames-exploding-multi-colored-ink-paint-generated-by-ai_188544-15568.jpg?size=626&ext=jpg&ga=GA1.1.1141335507.1718409600&semt=ais_user" alt="picture"/>
+</div>
+
+<div class="div4">
+<p>
+<b>Times Of INDIA</b> <br>
+The newspaper carries a great deal of news and information in its pages. It is an important publication that helps people know what is happening around them. Besides news items, experts present their views and opinions on various issues. The general public can also express their views through newspaper columns. Newspapers are very informative publications, and are low priced.
+
+Many important announcements are also published in newspapers. These may be government advertisements or messages for the general public. Newspapers also carry advertisements of various goods and services available in the market.
+
+Newspapers are printed on newsprint. Newspapers have many pages as they cover many topics such as politics, society, economy, science, environment, business, sports and entertainment. They are printed in colour, and are colourful and attractive.
+
+Reading the day’s paper is a good habit. It helps us stay aware of the news in our city, the country and the world.
+Newspaper Paragraph 3 (200 Words)
+Newspapers are published by a number of publishers. They are brought out in different languages.
+</p>
+
+<p>
+Newspapers published every day are known as dailies, while those published once a week are known as weeklies. News and views carried in newspapers depend on their periodicity. Newspapers have a serialized number printed on their issues.
+
+Newspapers are printed on very thin paper called newsprint. Newspapers generally have a number of pages and cover a large number of topics such as politics, society, economy, business, science, technology, environment and sports. There are also entertainment news items such as on theatre and films.
+
+Now-a-days newspapers are also available and can be browsed on the internet. Newspapers are usually low priced publications so that they are accessible to the maximum number of people.
+
+Newspapers carry authentic news. Reporters and correspondents work for newspaper offices. They report from the place where an event has taken place or the scene of action. They write their reports and file their stories that are edited by editors and then published in the papers.
+
+Various experts also write on subjects of their expertise. Besides news and views on local, national and international issues, newspapers also carry important messages, announcements and advertisements.
+
+</p>
+
+<p>
+<b>NASA Launches rocket</b> <br>
+Newspapers are brought out by publishers in many different languages. Newspaper publishers have printing presses where the papers are printed for distribution. Journalists collect news from around the country and the world. Important happenings in one’s own city or town are also covered in newspapers. Newspaper publishers always strive hard to publish authentic, true and error-free news and information in their publications.
+
+Newspapers carry news and views on issues and events on the political, social and economic fronts at the local, national and global levels. Latest developments in science and technology are also covered. Business and sports news are also featured. Weather reports too are published in newspapers.
+
+Important announcements of the government are also published in newspapers. Newspapers also carry advertisements of all sorts. There are advertisements of various products and services that are available locally as also across the country and world. There are also advertisements of jobs available against which readers can apply according to specifications and conditions mentioned. Information regarding lost persons is also published in newspapers. Local announcements of supply cuts of power or water are also made through newspapers for the benefit of the people.
+
+Newspapers are read by the people to keep themselves abreast of happenings around them. Newspapers help us know about our own local events, the happenings in our country and the important developments on the international front. By reading newspapers we stay aware of the latest news, views and opinions.
+
+Newspapers are mostly printed in colour and are colourful publications.
+
+</p>
+
+<p>
+
+<b>One MOvie break the records of boxoffice</b><br> 
+A newspaper is an important publication that is published for the people. It carries all the latest news and views on various issues happening around us.
+
+Stories and reports published in newspapers are of news items that are local, national as also global. We are influenced and affected by happenings around us whether these are in our neighborhood, in our own towns or cities, our country or the world. And so it is important to know what is happening around us.
+
+Events and issues are reported by journalists also known as reporters and correspondents. They go to the scene of action and file authentic, wholly true and error-free news and reports that are published in the newspapers. There are also well-known experts and personalities who write for newspapers. They analyze various situations and issues that affect us. They help us understand situations better and form opinions. Stories in newspapers have bylines of writers and authors.
+
+A number of newspapers are brought out in many different languages around the country so that the public may easily access news. It helps us know about life around us.
+</p>
+</div>
+
+<div id="news">
+<center>
+<p>Latest Updates</p>
+</center>
+</div>
+
+<br clear="all">
+
+</div>
+
+
+</body>
+</html>
