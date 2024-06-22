@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<style type="text/css">
+
+#div1{
+width:960px;
+height:1500px;
+border: 6px double black;
+margin-left: 270px;
+background:orange;
+}
+
+#div2{
+background:grey;
+width:960px;
+height:200px;
+}
+
+h1{
+margin-left:200px;
+}
+
+#div2 img{
+width:100px;
+}
+
+#banner img{
+width:960px;
+height:200px;
+}
+
+table{
+width:100%;
+}
+
+table h1{
+margin-right:150px;
+}
+
+table, th, td {
+border: 2px solid;
+border-collapse: collapse;
+text-align: center;
+padding:10px;
+}
+
+
+</style>
+
+<meta charset="ISO-8859-1">
+<title> Creating Table </title>
+</head>
+<body>
+
+<div id="div1">
+
+<div id="div2">
+
+<img src="https://img.freepik.com/free-vector/gradient-quill-pen-design-template_23-2149837191.jpg?size=626&ext=jpg" alt="logo"/>
+<b><h1>Welcome to www.mentorsadda.com</h1></b>
+</div>
+
+<div id="banner">
+<img src="https://img.freepik.com/free-photo/abstract-flames-exploding-multi-colored-ink-paint-generated-by-ai_188544-15568.jpg?size=626&ext=jpg&ga=GA1.1.1141335507.1718409600&semt=ais_user" alt="logo"/>
+</div>
+
+<table>
+
+<caption> <h1> Fees Structure </h1> </caption>
+
+<tr>
+<th>Name</th>
+<th>Fees</th>
+<th colspan="2">Class &
+Timing</th>
+</tr>
+
+<tr>
+<td>Sohail</td>
+<td>20000</td>
+<td>Java</td>
+<td>30days</td>
+</tr>
+
+<tr>
+<td>Ammir</td>
+<td>40000</td>
+<td>PHP</td>
+<td>90days</td>
+</tr>
+
+<tr>
+<td>Istiyak</td>
+<td>32000</td>
+<td>SEO</td>
+<td>30days</td>
+</tr>
+
+<tr>
+<td>Amaan</td>
+<td>34000</td>
+<td>Accounts</td>
+<td>60days</td>
+</tr>
+
+</table>
+
+
+</div>
+
+
+</body>
+</html>
