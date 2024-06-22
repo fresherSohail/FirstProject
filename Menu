@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<style type="text/css">
+
+#div1{
+width:960px;
+height:auto;
+border: 6px double black;
+margin-left: 270px;
+background:silver;
+}
+
+#div2{
+background:slateblue;
+width:960px;
+height:200px;
+}
+
+h1{
+margin-left:200px;
+}
+
+#div2 img{
+width:100px;
+}
+
+#banner img{
+width:960px;
+height:200px;
+}
+
+ul li{
+list-style:none;
+float:left;
+margin-left:100px;
+padding: 10px 30px;
+background:black;
+color:white;
+}
+
+ul li:hover{
+background: slateblue;
+font-size:17px;
+}
+
+</style>
+
+<title> Creating List </title>
+</head>
+<body>
+
+<div id="div1">
+
+<div id="div2">
+
+<img src="https://img.freepik.com/free-vector/gradient-quill-pen-design-template_23-2149837191.jpg?size=626&ext=jpg" alt="logo"/>
+<b><h1>Welcome to www.mentorsadda.com</h1></b>
+</div>
+
+<div id="banner">
+<img src="https://img.freepik.com/free-photo/abstract-flames-exploding-multi-colored-ink-paint-generated-by-ai_188544-15568.jpg?size=626&ext=jpg&ga=GA1.1.1141335507.1718409600&semt=ais_user" alt="logo"/>
+</div>
+
+<hr>
+
+<ul>
+<a href="#"><li>Java</li></a>
+<a href="#"><li>PHP</li></a>
+<a href="#"><li>CSS</li></a>
+<a href="#"><li>HTML</li></a>
+</ul>
+
+<br clear="all">
+
+<hr>
+
+</body>
+</html>
