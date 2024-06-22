@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link href="C:\Users\User\eclipse-workspace\FirstProject\src\main\webapp\Style.css" rel="Stylesheet" type="text/css">
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+
+<div id="div1"></div>
+<div id="div2"></div>
+<div id="div3"></div>
+
+<div id="div4"></div>
+<div id="div5"></div>
+<div id="div6"></div>
+
+</body>
+</html>
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                                                BELOW IS CSS File 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+@charset "ISO-8859-1";
+
+#div1{
+	background:slateblue;
+	width:200px;
+	height:200px;
+}
+
+#div2{
+	background:red;
+	width:200px;
+	height:200px;
+}
+
+#div3{
+	background:black;
+	width:200px;
+	height:200px;
+}
+
+#div4{
+	background:slateblue;
+	width:200px;
+	height:200px;
+	float:left;
+}
+
+#div5{
+	background:red;
+	width:200px;
+	height:200px;
+		float:left;
+}
+
+#div6{
+	background:black;
+	width:200px;
+	height:200px;
+		float:left;
+}
