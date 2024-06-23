@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link href="C:\Users\User\eclipse-workspace\FirstProject\src\main\webapp\SSheet.css" rel="StyleSheet" type="text/css" >
+<meta charset="ISO-8859-1">
+<title>Display Feature</title>
+</head>
+<body>
+
+<div id ="div1">
+
+<h1>OVERFLOW</h1>
+
+<p>
+The panel of finance ministers headed by Union FM Nirmala Sitharaman decided to end the ant-profiteering provision from April, which means that from next fiscal year, sellers or service providers cannot be hauled up in case they do not pass on benefit of tax cuts to consumers. Existing cases will be handled by principal bench of GST Appellate Tribunal, an official statement said.
+Sitharaman also said that some of the group of ministers have been recast as 11 new finance ministers have joined the Council with the one on rationalisation, now headed by Bihar deputy CM Samrat Chaudhary, been asked to make a presentation at the next meeting of the all-powerful body, which is likely to be held after a couple of months. “When GST Council meets next, GoM will make a presentation and discussion on rationalisation will start,” FM said while stating that a decision may not be taken during the meeting itself. It is unlikely that the ministers are going to rush ahead with a decision given that crucial assembly polls are due at the end of the year.
+  BY TABOOLA SPONSORED LINKS YOU MAY LIKE Launching Exquisite 3/3.5/4 BHK Homes at Sion
+  <img src="https://images.pexels.com/photos/906052/pexels-photo-906052.jpeg?auto=compress&cs=tinysrgb&w=600" width="300px" height="200px"/>
+K Raheja Corp Homes
+At Saturday’s meeting, Karnataka sought a discussion on compensation cess that is levied on several products to cover the “revenue loss” states. While the cess was for five years, it had to be extended up to March 2026 following the outbreak of Covid-19 as state had to borrow from the market to meet the shortfall in collections. With borrowings likely to be repaid only in 2025-26, the GST Council will deliberate on the future of the levy and the sharing formula in case some amount is left in the kitty after repaying the loans.
+Asked about including petrol and diesel within the ambit of GST, FM said that the law has a provision for their inclusion but it was for the states to first decide on it and then fix the rate of tax. Responding to another query, revenue secretary Sanjay Malhotra said the issue of GST exemption for fertiliser too has been referred to the group of ministers.
+K Raheja Corp Homes
+At Saturday’s meeting, Karnataka sought a discussion on compensation cess that is levied on several products to cover the “revenue loss” states. While the cess was for five years, it had to be extended up to March 2026 following the outbreak of Covid-19 as state had to borrow from the market to meet the shortfall in collections. With borrowings likely to be repaid only in 2025-26, the GST Council will deliberate on the future of the levy and the sharing formula in case some amount is left in the kitty after repaying the loans.
+Asked about including petrol and diesel within the ambit of GST, FM said that the law has a provision for their inclusion but it was for the states to first decide on it and then fix the rate of tax. Responding to another query, revenue secretary Sanjay Malhotra said the issue of GST exemption for fertiliser too has been referred to the group of ministers.
+
+K Raheja Corp Homes
+At Saturday’s meeting, Karnataka sought a discussion on compensation cess that is levied on several products to cover the “revenue loss” states. While the cess was for five years, it had to be extended up to March 2026 following the outbreak of Covid-19 as state had to borrow from the market to meet the shortfall in collections. With borrowings likely to be repaid only in 2025-26, the GST Council will deliberate on the future of the levy and the sharing formula in case some amount is left in the kitty after repaying the loans.
+Asked about including petrol and diesel within the ambit of GST, FM said that the law has a provision for their inclusion but it was for the states to first decide on it and then fix the rate of tax. Responding to another query, revenue secretary Sanjay Malhotra said the issue of GST exemption for fertiliser too has been referred to the group of ministers.
+
+K Raheja Corp Homes
+At Saturday’s meeting, Karnataka sought a discussion on compensation cess that is levied on several products to cover the “revenue loss” states. While the cess was for five years, it had to be extended up to March 2026 following the outbreak of Covid-19 as state had to borrow from the market to meet the shortfall in collections. With borrowings likely to be repaid only in 2025-26, the GST Council will deliberate on the future of the levy and the sharing formula in case some amount is left in the kitty after repaying the loans.
+Asked about including petrol and diesel within the ambit of GST, FM said that the law has a provision for their inclusion but it was for the states to first decide on it and then fix the rate of tax. Responding to another query, revenue secretary Sanjay Malhotra said the issue of GST exemption for fertiliser too has been referred to the group of ministers.
+
+
+K Raheja Corp Homes
+At Saturday’s meeting, Karnataka sought a discussion on compensation cess that is levied on several products to cover the “revenue loss” states. While the cess was for five years, it had to be extended up to March 2026 following the outbreak of Covid-19 as state had to borrow from the market to meet the shortfall in collections. With borrowings likely to be repaid only in 2025-26, the GST Council will deliberate on the future of the levy and the sharing formula in case some amount is left in the kitty after repaying the loans.
+Asked about including petrol and diesel within the ambit of GST, FM said that the law has a provision for their inclusion but it was for the states to first decide on it and then fix the rate of tax. Responding to another query, revenue secretary Sanjay Malhotra said the issue of GST exemption for fertiliser too has been referred to the group of ministers.
+
+
+</p>
+</div>
+
+</body>
+</html>
+
+====================================================================================================================================================================================================================
+CSS FILE BELOW =====================================================================================================================================================================================================
+====================================================================================================================================================================================================================
+
+@charset "ISO-8859-1";
+
+h1{
+	background: orange;
+	display:inline-block;
+}
+
+
+#div1 img{
+	display: block;
+	background:red;
+}
+
+
+
+div{
+	height: 600px;
+	width: 1200px;
+	border: 4px solid grey;
+	overflow: auto;
+}
+
