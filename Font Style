@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<link href="FontStyle.css" rel="stylesheet" type="text/css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playwrite+MX:wght@100..400&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
+
+</head>
+<body>
+
+<center>
+
+<div id="div1">
+<h1>How To Use External Fonts in Website Font-1</h1>
+</div>
+
+<div id="div2">
+<h1>How To Use External Fonts in Website Font-2</h1>
+</div>
+
+<div id="div3">
+<h1>How To Use External Fonts in Website Font-3</h1>
+</div>
+
+<div id="div4">
+<p>
+
+A well-organized paragraph supports or develops a single controlling idea, which is expressed in a sentence called the topic sentence. A topic sentence has several important functions: it substantiates or supports an essay’s thesis statement; it unifies the content of a paragraph and directs the order of the sentences; and it advises the reader of the subject to be discussed and how the paragraph will discuss it. Readers generally look to the first few sentences in a paragraph to determine the subject and perspective of the paragraph. That’s why it’s often best to put the topic sentence at the very beginning of the paragraph. In some cases, however, it’s more effective to place another sentence before the topic sentence—for example, a sentence linking the current paragraph to the previous one, or one providing background information.
+
+Although most paragraphs should have a topic sentence, there are a few situations when a paragraph might not need a topic sentence. For example, you might be able to omit a topic sentence in a paragraph that narrates a series of events, if a paragraph continues developing an idea that you introduced (with a topic sentence) in the previous paragraph, or if all the sentences and details in a paragraph clearly refer—perhaps indirectly—to a main point. The vast majority of your paragraphs, however, should have a topic sentence.
+
+A paragraph is defined as “a group of sentences or a single sentence that forms a unit” (Lunsford and Connors 116). Length and appearance do not determine whether a section in a paper is a paragraph. For instance, in some styles of writing, particularly journalistic styles, a paragraph can be just one sentence long.
+</p>
+</div>
+</center>
+</div>
+
+</body>
+</html>
+
++===================================================================================================================================================================================================================
+CSS FILE BELOW
++++=================================================================================================================================================================================================================
+
+@charset "UTF-8";
+
+body{
+	width: 1300px;
+	height: 1000px;
+}
+
+div{
+	width: 1200px;
+	margin-left:150px;
+}
+
+#div1 h1{
+	background: lightgreen;
+	font-family: Bebas Neue;
+}
+
+#div2 h1{
+	background: blueviolet;
+	color: white;
+}
+
+#div3 h1{
+	background: red;
+	color: white;
+}
+
+@font-face {
+	font-family: font1;	
+    src: Url();
+}
+
+p{
+	font-size:20px;
+	font-family: Playwrite MX;
+}
+
+.bebas-neue-regular {
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+// <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 100 to 400
+
+.playwrite-mx-<uniquifier> {
+  font-family: "Playwrite MX", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
