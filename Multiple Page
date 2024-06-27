@@ -1,0 +1,399 @@
+FontStyle.html File (Home Page)
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>How to Drop Down</title>
+<link href="file:///C:/Users/Lenovo/Downloads/favicon.ico" type="image" rel="icon">
+
+<link href="FontStyle.css" rel="stylesheet" type="text/css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playwrite+MX:wght@100..400&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
+
+</head>
+<body>
+
+<img src="file:///C:/Users/Lenovo/Downloads/logo_design_images.jpg" height="150px" width="100px"/>
+
+<div id="div1">
+<h1>How To Make Multiple Pages & How to Link Them.</h1>
+</div>
+
+<center>
+<ul>
+<li><a href="file:///C:/Users/Lenovo/eclipse-workspace/FirstProject/src/main/webapp/FontStyle.html" target="blank"> Home </a></li>
+<li><a href="file:///C:/Users/Lenovo/eclipse-workspace/FirstProject/src/main/webapp/WEB-INF/AboutUs.html" target="blank"> About </a></li>
+<li><a href="#"> Course <span> <img src="file:///C:/Users/Lenovo/Downloads/60997.png"/ width="15px"; height="15px"> </span></a>
+<ul>   
+<li><a href="#"> Php </a></li>
+<li><a href="#"> SQL </a></li>
+<li><a href="#"> Java <span> <img src="file:///C:/Users/Lenovo/Downloads/60996.png" width="15px" height="15px"/> </span></a>
+<ul>
+<li><a href="#"> Java1 </a></li>
+<li><a href="#"> Java2 </a></li>
+<li><a href="#"> Java3 </a></li>
+<li><a href="#"> Java4 </a></li>
+</ul>
+</li>
+<li><a href="#"> DotNet </a></li>
+<li><a href="#"> Docker </a></li>
+</ul>
+</li>
+<li><a href="#"> Log in </a></li>
+<li><a href="file:///C:/Users/Lenovo/eclipse-workspace/FirstProject/src/main/webapp/WEB-INF/ContactUs.html" target="blank"> Contact Us </a></li>
+</ul>
+</center>
+</div>
+
+</body>
+</html>
+
+====================================================================================================================================================================================================================
+AboutUs.html File (About Us Page)
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>How to Drop Down</title>
+<link href="file:///C:/Users/Lenovo/Downloads/favicon.ico" type="image" rel="icon">
+
+<link href="AboutUs.css" rel="stylesheet" type="text/css">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playwrite+MX:wght@100..400&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
+
+</head>
+<body>
+
+<img src="file:///C:/Users/Lenovo/Downloads/logo_design_images.jpg" height="150px" width="100px"/>
+
+<div id="div1">
+<h1>About Us.</h1>
+</div>
+
+<center>
+<ul>
+<li><a href="file:///C:/Users/Lenovo/eclipse-workspace/FirstProject/src/main/webapp/FontStyle.html" target="blank"> Home </a></li>
+<li><a href="file:///C:/Users/Lenovo/eclipse-workspace/FirstProject/src/main/webapp/WEB-INF/AboutUs.html" target="blank"> About </a></li>
+<li><a href="#"> Course <span> <img src="file:///C:/Users/Lenovo/Downloads/60997.png"/ width="15px"; height="15px"> </span></a>
+<ul>   
+<li><a href="#"> Php </a></li>
+<li><a href="#"> SQL </a></li>
+<li><a href="#"> Java <span> <img src="file:///C:/Users/Lenovo/Downloads/60996.png" width="15px" height="15px"/> </span></a>
+<ul>
+<li><a href="#"> Java1 </a></li>
+<li><a href="#"> Java2 </a></li>
+<li><a href="#"> Java3 </a></li>
+<li><a href="#"> Java4 </a></li>
+</ul>
+</li>
+<li><a href="#"> DotNet </a></li>
+<li><a href="#"> Docker </a></li>
+</ul>
+</li>
+<li><a href="#"> Log in </a></li>
+<li><a href="file:///C:/Users/Lenovo/eclipse-workspace/FirstProject/src/main/webapp/WEB-INF/ContactUs.html" target="blank"> Contact Us </a></li>
+</ul>
+</center>
+</div>
+
+
+<p><br><br>
+What is CM all about? Provider of "totally integrated solutions" in the areas of Software Products, Application Engineering and Professional Service. CMSS works on an Ancient Indian work-ethic of "Manasa > Vacha > Karmana", meaning "we commit only to those tasks, which we think we can accomplish and deliver upon our commitment". Host of satisfied clients through high-quality Services, Products, and timely Support and Delivering the right solution on the right platform, in a cost-effective manner. Been in business for the last 10 years and has experience of 4.5 million man hours with over 200+ professionals dedicated to bring you best-of- class service Who We Are A group of median age 26 dedicted to always being on the bleeding edge of technology. Working toghter to make an entity which believes in introduction change in consumer behaviour through use of technology.
+</p>
+
+</body>
+</html>
+====================================================================================================================================================================================================================
+ContactUs.html File (Contact Us Page)
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>How to Drop Down</title>
+<link href="file:///C:/Users/Lenovo/Downloads/favicon.ico" type="image" rel="icon">
+
+<link href="AboutUs.css" rel="stylesheet" type="text/css">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playwrite+MX:wght@100..400&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
+
+</head>
+<body>
+
+<img src="file:///C:/Users/Lenovo/Downloads/logo_design_images.jpg" height="150px" width="100px"/>
+
+<div id="div1">
+<h1>Contact Us.</h1>
+</div>
+
+<center>
+<ul>
+<li><a href="file:///C:/Users/Lenovo/eclipse-workspace/FirstProject/src/main/webapp/FontStyle.html" target="blank"> Home </a></li>
+<li><a href="file:///C:/Users/Lenovo/eclipse-workspace/FirstProject/src/main/webapp/WEB-INF/AboutUs.html" target="blank"> About </a></li>
+<li><a href="#"> Course <span> <img src="file:///C:/Users/Lenovo/Downloads/60997.png"/ width="15px"; height="15px"> </span></a>
+<ul>   
+<li><a href="#"> Php </a></li>
+<li><a href="#"> SQL </a></li>
+<li><a href="#"> Java <span> <img src="file:///C:/Users/Lenovo/Downloads/60996.png" width="15px" height="15px"/> </span></a>
+<ul>
+<li><a href="#"> Java1 </a></li>
+<li><a href="#"> Java2 </a></li>
+<li><a href="#"> Java3 </a></li>
+<li><a href="#"> Java4 </a></li>
+</ul>
+</li>
+<li><a href="#"> DotNet </a></li>
+<li><a href="#"> Docker </a></li>
+</ul>
+</li>
+<li><a href="#"> Log in </a></li>
+<li><a href="file:///C:/Users/Lenovo/eclipse-workspace/FirstProject/src/main/webapp/WEB-INF/ContactUs.html" target="blank"> Contact Us </a></li>
+</ul>
+</center>
+</div>
+
+<p><br>
+<br>This is my contact details<br>This is my contact details<br>This is my contact details<br>This is my contact details<br>This is my contact details<br>This is my contact details<br>This is my contact details<br>This is my contact details<br>This is my contact details<br>This is my contact details<br>This is my contact details<br>
+</p>
+
+</body>
+</html>
+
+===================================================================================================================================================================================================================
+About And Home CSS File.
+
+@charset "UTF-8";
+
+body{
+	width: 1300px;
+	height: 1000px;
+	margin-left: 200px;
+}
+
+div{
+	width: 1200px;
+	text-align: center;
+}
+
+#div1 h1{
+	background: lightgreen;
+	font-family: Bebas Neue;
+	line-height:100px;
+}
+
+@font-face {
+	font-family: font1;	
+    src: Url();
+}
+
+p{
+	font-size:20px;
+	font-family: Playwrite MX;
+}
+
+.bebas-neue-regular {
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+#red{
+	color: red;
+	font-size: 30px;
+	background: gold;
+}
+
+// <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 100 to 400
+
+.playwrite-mx-<uniquifier> {
+  font-family: "Playwrite MX", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+
+ul{
+	list-style: none;
+	margin: 0px;
+	padding:0px;
+}
+
+ul li{
+	background: grey;
+	width: 150px;
+	float: left;
+	border: 1px solid black;
+	height: 50px;
+	text-align: center;
+	line-height: 50px;
+    position: relative;
+}
+
+ul li a{
+     text-decoration: none;
+     color: white;
+     display: block;
+}
+
+ul ul {
+	display: none;
+}
+
+ul li:hover{
+	background: orange;
+}
+
+ul li:hover > ul{
+	display: block;
+}
+
+ul ul ul{
+	margin-left:150px;
+	position: absolute;
+	top: 0px;
+	display: none;
+}
+
+======================================================================================================================================================================================================================
+Home Page Styling File.
+
+@charset "UTF-8";
+
+body{
+	width: 1300px;
+	height: 1000px;
+	margin-left: 200px;
+}
+
+div{
+	width: 1200px;
+	text-align: center;
+}
+
+#div1 h1{
+	background: lightgreen;
+	font-family: Bebas Neue;
+	line-height:100px;
+}
+
+@font-face {
+	font-family: font1;	
+    src: Url();
+}
+
+p{
+	font-size:20px;
+	font-family: Playwrite MX;
+}
+
+.bebas-neue-regular {
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+#red{
+	color: red;
+	font-size: 30px;
+	background: gold;
+}
+
+// <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 100 to 400
+
+.playwrite-mx-<uniquifier> {
+  font-family: "Playwrite MX", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+
+ul{
+	list-style: none;
+	margin: 0px;
+	padding:0px;
+}
+
+ul li{
+	background: grey;
+	width: 150px;
+	float: left;
+	border: 1px solid black;
+	height: 50px;
+	text-align: center;
+	line-height: 50px;
+    position: relative;
+}
+
+ul li a{
+     text-decoration: none;
+     color: white;
+     display: block;
+}
+
+ul ul {
+	display: none;
+}
+
+ul li:hover{
+	background: orange;
+}
+
+ul li:hover > ul{
+	display: block;
+}
+
+ul ul ul{
+	margin-left:150px;
+	position: absolute;
+	top: 0px;
+	display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
