@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>How to Drop Down</title>
+<link href="file:///C:/Users/Lenovo/Downloads/favicon.ico" type="image" rel="icon">
+
+<link href="FontStyle.css" rel="stylesheet" type="text/css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playwrite+MX:wght@100..400&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
+
+</head>
+<body>
+
+<div id="div1">
+<h1>How To Use External Fonts in Website Font-1</h1>
+</div>
+
+<div id="div2">
+<h1>How To Use External Fonts in Website Font-2</h1>
+</div>
+
+<div id="div3">
+<h1>How To Use External Fonts in Website Font-3</h1>
+</div>
+<center>
+<ul>
+<li><a href="#"> Home </a></li>
+<li><a href="#"> About </a></li>
+<li><a href="#"> Course <span> <img src="file:///C:/Users/Lenovo/Downloads/60997.png"/ width="15px"; height="15px"> </span></a>
+<ul>
+<li><a href="#"> Php </a></li>
+<li><a href="#"> SQL </a></li>
+<li><a href="#"> Java <span> <img src="file:///C:/Users/Lenovo/Downloads/60996.png" width="15px" height="15px"/> </span></a>
+<ul>
+<li><a href="#"> Java1 </a></li>
+<li><a href="#"> Java2 </a></li>
+<li><a href="#"> Java3 </a></li>
+<li><a href="#"> Java4 </a></li>
+</ul>
+</li>
+<li><a href="#"> DotNet </a></li>
+<li><a href="#"> Docker </a></li>
+</ul>
+</li>
+<li><a href="#"> Log in </a></li>
+<li><a href="#"> Contact Us </a></li>
+</ul>
+</center>
+</div>
+
+</body>
+</html>
+
+====================================================================================================================================================================================================================
+CSS FILE BELOW.
+====================================================================================================================================================================================================================
+
+
+@charset "UTF-8";
+
+body{
+	width: 1300px;
+	height: 1000px;
+	margin-left: 200px;
+}
+
+div{
+	width: 1200px;
+	text-align: center;
+}
+
+#div1 h1{
+	background: lightgreen;
+	font-family: Bebas Neue;
+}
+
+#div2 h1{
+	background: blueviolet;
+	color: white;
+}
+
+#div3 h1{
+	background: red;
+	color: white;
+}
+
+@font-face {
+	font-family: font1;	
+    src: Url();
+}
+
+p{
+	font-size:20px;
+	font-family: Playwrite MX;
+}
+
+.bebas-neue-regular {
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+#red{
+	color: red;
+	font-size: 30px;
+	background: gold;
+}
+
+// <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 100 to 400
+
+.playwrite-mx-<uniquifier> {
+  font-family: "Playwrite MX", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+
+ul{
+	list-style: none;
+	margin: 0px;
+	padding:0px;
+}
+
+ul li{
+	background: grey;
+	width: 150px;
+	float: left;
+	border: 1px solid black;
+	height: 50px;
+	text-align: center;
+	line-height: 50px;
+    position: relative;
+}
+
+ul li a{
+     text-decoration: none;
+     color: white;
+     display: block;
+}
+
+ul ul {
+	display: none;
+}
+
+ul li:hover{
+	background: orange;
+}
+
+ul li:hover > ul{
+	display: block;
+}
+
+ul ul ul{
+	margin-left:150px;
+	position: absolute;
+	top: 0px;
+	display: none;
+}
+
+
+
+
+
+
+
