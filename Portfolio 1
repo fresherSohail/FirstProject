@@ -1,0 +1,232 @@
+Home Page (HTML Page)
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Blaka+Ink&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Blaka+Ink&family=Qahiri&display=swap" rel="stylesheet">
+
+<title>Insert title here</title>
+<link href="NewFile.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<div class="division1">
+<img src="https://media.istockphoto.com/id/1169630303/photo/blue-textured-background.jpg?s=2048x2048&w=is&k=20&c=Zsz60Hj7oi-hGvi-E0X7bEdDG6jjNFiR7yQMZyw2RMs=" alt="White Paper" style="width:1500px; height:720px;" />
+
+<div class="Intro">SoftwarePlus</div>
+<div class="Paragraph"><p>I like to craft solid and scalable fronted products <br> with great user experience</p></div>
+<div class="profile"> <img src="https://images.unsplash.com/photo-1496629062893-b0f566065d44?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="profile" style="width:800px; height:100%"/> </div>
+<div class="para1"><p>Highly skilled at progressive enhancement,<br> design systems &<br> UI Engineering</p></div>
+<div class="para2"><p>Over a decade of experience <br> building product for clients across several countries</p></div>
+<div class="Designation">Software Developer</div>
+
+<div class="Menu">
+<ul>
+<li><a href="#">Home</a></li>
+<li><a href="file:///C:/Users/Lenovo/eclipse-workspace/Portfolio/src/main/webapp/SecondFile1.html">About</a></li>
+<li><a href="#">Projects</a></li>
+<li><a href="#">Contact</a></li>
+</ul>
+</div>
+
+</div>
+
+</body>
+</html>
+
+====================================================================================================================================================================================================================
+Home Page (CSS Page)
+
+@charset "UTF-8";
+.blaka-ink-regular {
+  font-family: "Blaka Ink", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+.qahiri-regular {
+  font-family: "Qahiri", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+body{
+	height:100%;
+}
+
+.division1{
+	position: relative;
+	color: white;
+	
+}
+
+.Intro{
+	position: absolute;
+	top: 10%;
+	left: 10%;
+	transform:translate(-50%, -50%);
+	font-family:Qahiri;
+	font-size: 50px;
+}
+
+.Paragraph{
+	position: absolute;
+	top: 59%;
+	left:21.5%;
+	transform: translate(-50%, -50%);
+	font-family:Time-new-roman;
+	font-size: 20px;
+	color: white;	
+}
+
+.profile{
+position: absolute;
+top: 50%;
+left:1100px;
+transform: translate(-50%, -50%);	
+}
+
+.para1{
+	position: absolute;
+	top: 20%;
+	left:86%;
+	transform: translate(-50%, -50%);
+	font-family:Time-new-roman;
+	font-size: 12px;
+	color: black;	
+}
+
+.para2{
+	position: absolute;
+	top: 91%;
+	left:86%;
+	transform: translate(-50%, -50%);
+	font-family:Time-new-roman;
+	font-size: 12px;
+	color: white;	
+}
+
+.Designation{
+	position: absolute;
+	top: 40%;
+	left:31%;
+	transform: translate(-50%, -50%);
+	font-family:Blaka Ink;
+	font-size: 100px;
+	color: pinks;	
+}
+
+#span1{
+	color:black;
+}
+
+.Menu{
+	position: absolute;
+	top: 2%;
+	left: 50%;
+	font-size: 18px;
+}
+
+.Menu ul{
+	list-style: none;
+}
+
+.Menu ul li{
+	float: left;
+	margin-left:100px;
+}
+
+.Menu ul a{
+	text-decoration: none;
+	color: white;
+}
+
+
+====================================================================================================================================================================================================================
+About Page (Html Page)
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<link href="SecondFile1.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<div class="About"> 
+
+<div class="div1"> <img src="https://images.unsplash.com/photo-1534528741775-53994a69daeb?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="500px" height="600px"/> </div>
+<div class="div2"> <h1> About</h1> <p> 
+
+"I am a dedicated recruiter with 2.5 years of experience in talent acquisition and human resources. Over the past two years, I have developed a growing passion for software development, driven by a deep curiosity and a desire to contribute creatively to technology solutions. My journey from recruitment to aspiring software developer reflects my adaptability and eagerness to embrace new challenges. I am drawn to the problem-solving aspect of coding and the opportunity to build innovative applications that can make a meaningful impact. With a strong foundation in understanding people's skills and potential, I am excited to apply my analytical mindset and communication skills to the dynamic world of software development. I am actively pursuing avenues to deepen my programming knowledge and am enthusiastic about leveraging my recruitment expertise to foster diverse and talented teams in tech environments. My goal is to transition into a role where I can blend my recruitment acumen with my emerging technical skills to contribute effectively to software projects that drive innovation and efficiency.<br><br>I bring 2.5 years of robust experience as a recruiter, specializing in sourcing top-tier talent and fostering productive relationships within diverse organizational settings. My journey into software development began 2 years ago when I discovered a profound interest in coding and technology. This newfound passion sparked a transformative shift in my career aspirations, propelling me towards becoming a proficient software developer. My background in recruitment has endowed me with invaluable skills in understanding human potential, assessing capabilities, and fostering collaborative environments "</p> </div>
+
+<div class="Menu">
+<ul>
+<li><b><a href="file:///C:/Users/Lenovo/eclipse-workspace/Portfolio/src/main/webapp/NewFile.html#">Home</a></b></li>
+<li><b><a href="file:///C:/Users/Lenovo/eclipse-workspace/Portfolio/src/main/webapp/SecondFile1.html">About</a></b></li>
+<li><b><a href="#">Projects</a></b></li>
+<li><b><a href="#">Contact</a></b></li>
+</ul>
+</div>
+
+</div>
+</body>
+</html>
+
+
+====================================================================================================================================================================================================================
+About Page (CSS Page)
+
+@charset "UTF-8";
+
+body{
+	width:auto;
+	height:auto;
+}
+
+.div1{
+	position: relative;
+	margin-left: 200px;
+	margin-top: 125px;	
+}
+
+.div2{
+	position: absolute;
+	width: 500px;
+	height: 500px;
+	left: 50%;
+	top: 20%;
+}
+
+.Menu{
+	position: absolute;
+	top: 2%;
+	left: 50%;
+	font-size: 18px;
+}
+
+.Menu ul{
+	list-style: none;
+}
+
+.Menu ul li{
+	float: left;
+	margin-left:100px;
+}
+
+.Menu ul a{
+	text-decoration: none;
+	color: black;
+	font-style: Garamond;
+}
+
+li:hover{
+	font-size:20px;
+	transition: 1s;
+	}
+
+
+
